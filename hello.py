@@ -1,2 +1,2 @@
-echo 'print("Hello, GitHub!")' > hello.py
+print("Hello, GitHub!")
 print("My name is phamj4444-ai")
